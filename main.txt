@@ -3,3 +3,5 @@ privet
 C7
 C8
 C5
+C4
+C10
